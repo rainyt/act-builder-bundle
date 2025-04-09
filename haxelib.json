@@ -1,0 +1,12 @@
+{
+    "name": "act-builder-bundle",
+    "url": "",
+    "license": "MIT",
+    "tags": [],
+    "description": "用于读取ActBuilderEditer的bundle文件",
+    "version": "0.0.1",
+    "releasenote": "",
+    "contributors": ["rainyt"],
+    "classPath": "src",
+    "dependencies": {}
+  }
